@@ -11,15 +11,9 @@
 ### 🚀 Hakkımda
 
 - 🎓 Hacettepe Üniversitesi BÖTE mezunuyum
-- 👨‍💻 Şu anda Pixbuff şirketinde **E-Öğrenme Tasarımcısı** olarak çalışıyorum
-- 🌐 Kendi kişisel web sitemi tasarladım
-- ✨ Tasarım sürecinde arkadaşlarımdan fikir aldım ve uyguladım
 
 ---
 
-### 📊 GitHub İstatistiklerim
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=burakryder&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakryder&layout=compact&theme=radical" />
-</p>
+
+
