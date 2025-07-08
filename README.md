@@ -1,19 +1,25 @@
-### 👋 Merhaba! Ben Burak
+<h2 align="center">✨ Merhaba, ben Burak! ✨</h2>
 
-Ben bir **Full Stack Web Developer**'ım. JavaScript, React, Node.js teknolojileriyle çalışıyorum. Aynı zamanda UI/UX tasarımla da ilgileniyorum.
-
-🔭 Şu anda üzerinde çalıştığım proje: [Nottepe Web Uygulaması](https://github.com/kendi-proje-linkin)
-
-🌱 Öğrendiğim teknolojiler: React, Next.js, TypeScript, MongoDB, Tailwind CSS
-
-📫 Bana ulaşmak için:
-- [LinkedIn](https://linkedin.com/in/kendi-linkin)
-- [Kişisel Web Sitem](https://kendi-site.com)
+<p align="center">
+  👨‍💻 Junior Full Stack Web Developer <br />
+  🚀 React, Node.js, MongoDB ile projeler geliştiriyorum. <br />
+  🎨 UI/UX tasarım konularına da ilgim var.
+</p>
 
 ---
 
-### 💻 GitHub İstatistiklerim
+### 🚀 Hakkımda
 
-![Burak'ın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=burakryder&show_icons=true&theme=radical)
+- 🎓 Hacettepe Üniversitesi BÖTE mezunuyum
+- 👨‍💻 Şu anda Pixbuff şirketinde **E-Öğrenme Tasarımcısı** olarak çalışıyorum
+- 🌐 Kendi kişisel web sitemi tasarladım
+- ✨ Tasarım sürecinde arkadaşlarımdan fikir aldım ve uyguladım
 
-![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=burakryder&layout=compact&theme=radical)
+---
+
+### 📊 GitHub İstatistiklerim
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=burakryder&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakryder&layout=compact&theme=radical" />
+</p>
