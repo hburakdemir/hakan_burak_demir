@@ -10,7 +10,7 @@
 
 ### 🚀 Hakkımda
 
-- 🎓 Hacettepe Üniversitesi BÖTE mezunuyum
+- 🎓 Hacettepe Üniversitesi Bilgisayar ve Öğretim Teknolojileri Eğitimi mezunuyum
 
 ---
 
